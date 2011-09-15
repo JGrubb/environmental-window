@@ -1,0 +1,1 @@
+This cache folder needs to allow writing permission for the timthumb.php script.

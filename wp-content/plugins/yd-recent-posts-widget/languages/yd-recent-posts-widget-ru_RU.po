@@ -1,0 +1,169 @@
+# YD RECENT POSTS WIDGET.
+# Copyright (C) 2009 yann.com
+# This file is distributed under the same license as the yd-recent-posts-widget package.
+# FIRST AUTHOR <yann@abc.fr>, 2009.
+# <a href="http://wordpress.org/tag/yd-recent-posts-widget">
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YD Recent Posts WP widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/yd-recent-posts-widget\n"
+"POT-Creation-Date: 2009-03-14 23:03+0000\n"
+"PO-Revision-Date: 2009-08-06 19:34+0300\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: yd-recent-posts-widget.php:52
+msgid "YD Recent Posts Options"
+msgstr "YD Recent Posts настройки"
+
+#: yd-recent-posts-widget.php:52
+msgid "YDRecentPosts"
+msgstr "YDRecentPosts"
+
+#: yd-recent-posts-widget.php:57
+msgid "Action:"
+msgstr "Действие :"
+
+#: yd-recent-posts-widget.php:57
+msgid "I should now"
+msgstr "Я должен знать"
+
+#: yd-recent-posts-widget.php:58
+#: yd-recent-posts-widget.php:67
+msgid "Clear cache"
+msgstr "Очистить кэш"
+
+#: yd-recent-posts-widget.php:61
+msgid "Caches are cleared"
+msgstr "Кэш очищен"
+
+#: yd-recent-posts-widget.php:64
+msgid "Welcome to YD recent Posts Admin Page."
+msgstr "Приветствуем в  YD recent Posts панели."
+
+#: yd-recent-posts-widget.php:72
+msgid "Homepage cache content:"
+msgstr "Домашняя страница - кэш:"
+
+#: yd-recent-posts-widget.php:76
+msgid "Other pages cache content:"
+msgstr "Другой кэшированный контент:"
+
+#: yd-recent-posts-widget.php:133
+msgid "Permanent link to:"
+msgstr "Постоянная ссылка на:"
+
+#: yd-recent-posts-widget.php:148
+msgid " :"
+msgstr " :"
+
+#: yd-recent-posts-widget.php:213
+msgid "Home page widget title:"
+msgstr "Заголовок виджета домашней страницы:"
+
+#: yd-recent-posts-widget.php:215
+msgid "Home page tag:"
+msgstr "Тэг домашней страницы:"
+
+#: yd-recent-posts-widget.php:216
+msgid "Home no. of posts:"
+msgstr "Номер поста :"
+
+#: yd-recent-posts-widget.php:217
+msgid "Use special date meta:"
+msgstr "Использовать специальные данные :"
+
+#: yd-recent-posts-widget.php:217
+msgid "custom field name"
+msgstr "имя пользовательского поля."
+
+#: yd-recent-posts-widget.php:218
+#: yd-recent-posts-widget.php:225
+msgid "Bottom text:"
+msgstr "Текст :"
+
+#: yd-recent-posts-widget.php:219
+#: yd-recent-posts-widget.php:226
+msgid "link:"
+msgstr "ссылка:"
+
+#: yd-recent-posts-widget.php:221
+msgid "Other pages widget title:"
+msgstr "Заголовок виджета других страниц:"
+
+#: yd-recent-posts-widget.php:223
+msgid "Other pages tag:"
+msgstr "Тэг других страниц:"
+
+#: yd-recent-posts-widget.php:224
+msgid "Other no. of posts:"
+msgstr "Номера других страниц:"
+
+#: yd-recent-posts-widget.php:228
+msgid "Title cut length:"
+msgstr "Обрезание заголовка:"
+
+#: yd-recent-posts-widget.php:229
+msgid "Abstract cut length:"
+msgstr "Обрезание заглавия :"
+
+#: yd-recent-posts-widget.php:230
+msgid "Load CSS:"
+msgstr "Загрузка CSS :"
+
+#: yd-recent-posts-widget.php:231
+msgid "Image CSS Style:"
+msgstr "CSS-стиль изображения:"
+
+#: yd-recent-posts-widget.php:232
+msgid "Default image URL:"
+msgstr "URL стандартного изображения:"
+
+#: yd-recent-posts-widget.php:271
+msgid "clear"
+msgstr "очистка"
+
+#: yd-recent-posts-widget.php:302
+#: yd-recent-posts-widget.php:303
+msgid "YD Recent Posts"
+msgstr "YD Recent Posts"
+
+#. Plugin URI of an extension
+msgid "http://www.yann.com/wp-plugins/yd-recent-posts-widget"
+msgstr "http://www.yann.com/wp-plugins/yd-recent-posts-widget"
+
+#. Author of an extension
+msgid "Yann Dubois"
+msgstr "Yann Dubois"
+
+#. Author URI of an extension
+msgid "http://www.yann.com/"
+msgstr "http://www.yann.com/"
+
+#. v.0.3:247
+msgid "Display date:"
+msgstr "Отображение даты :"
+
+#. v.0.3:248
+msgid "Date format:"
+msgstr "Формат даты:"
+
+#. v.0.3:176
+msgid "F j"
+msgstr "j F"
+
+#. v.0.4:100
+msgid "Reset widget options"
+msgstr "Сбросить настройки виджета"
+
+#. v.0.4:102
+msgid "Widget options are reset"
+msgstr "Настройки виджета сброшены"
+

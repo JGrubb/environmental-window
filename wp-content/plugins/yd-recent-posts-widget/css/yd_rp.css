@@ -1,0 +1,38 @@
+/*
+Default CSS Styles for the yd_rp_widget plug-in
+Version 3.0.0
+*/
+.widget_yd_rp * {
+	margin:0;
+	padding:0;
+}
+.yd_rp_widget {
+	font-size: 11px;	
+	line-height: 13px;
+}
+.yd_rp_widget h4 {
+	font: bold 11px Arial, Helvetica, sans;	
+	display: block;
+	clear: both;
+	margin-bottom: 0px;
+}
+.side1 ul li ul li h4 a, .side2 ul li ul li h4 a {
+	padding-left: 0px;
+}
+.yd_rp_widget img {
+	width: 60px;
+	height: 60px;
+	float: left;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+li.widget_yd_rp, .yd_rp_widget ul, .yd_rp_widget ul li {
+	list-style: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.yd_rp_widget a.rpw_bottom_link {
+	clear: both;
+	display: block;
+}
